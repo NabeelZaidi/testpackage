@@ -1,0 +1,22 @@
+{
+  "name": "@nabeelzaidi/testpackage",
+  "version": "0.0.1",
+  "description": "for testing purpose",
+  "main": "index.js",
+  "publishConfig": {
+    "@nabeelzaidi:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabeelZaidi/testpackage.git"
+  },
+  "author": "exit 0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NabeelZaidi/testpackage/issues"
+  },
+  "homepage": "https://github.com/NabeelZaidi/testpackage#readme"
+}
